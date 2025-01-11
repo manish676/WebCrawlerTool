@@ -53,7 +53,4 @@
 <h3>Contributing 🤝</h3>
 <p>If you have suggestions or want to contribute to the project, feel free to open an issue or submit a pull request! 🚀</p>
 
-<h3>License 🖍️</h3>
-<p>This project is licensed under the MIT License. See the <code>LICENSE</code> file for details. 🔓</p>
-
 <p><b>Author👨‍💻:</b> Manish</p>
