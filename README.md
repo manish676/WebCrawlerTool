@@ -26,8 +26,8 @@
   <li>Navigate to the project directory:
     <pre><code>cd WebCrawlerTool</code></pre>
   </li>
-  <li>Install required dependencies:
-    <pre><code>pip install -r requirements.txt</code></pre>
+  <li>After use this cmd:
+    <pre><code>chmod +x *</code></pre>
   </li>
 </ol>
 
